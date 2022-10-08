@@ -33,3 +33,9 @@
 - Bio: Final year at IIIT Kalyani
 - GitHub: [akash-rajak](https://github.com/akash-rajak)
 
+#### Name: [Geetanjali Verma](https://github.com/geetanjaliverma)
+
+- Place: Delhi, India
+- Bio: Information Technology undergraduate at GGSIPU
+- GitHub: [geetanjali-verma](https://github.com/geetanjaliverma)
+
